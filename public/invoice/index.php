@@ -1,5 +1,0 @@
-<?php
-
-//Silense is deafening
-
-?>
