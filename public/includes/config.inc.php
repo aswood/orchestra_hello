@@ -5,15 +5,15 @@ if (!defined('_VALID_'))
 	die ('Unauthorized Access');
 
 // Database Login
-define('DB_NAME', 'invoice');
-define('DB_USER', 'root');
-define('DB_PASS', '123456');
-define('DB_HOST', 'localhost');
+define('DB_NAME', 'db_e8653741');
+define('DB_USER', 'user_e8653741');
+define('DB_PASS', 'M,fhag32%5f26@');
+define('DB_HOST', 'a.db.shared.orchestra.io');
 define('DB_TBL_PRE', '');
 
 // Company, Website, Admin and Misc
 define('COMPANY_NAME', 'Asoft');
-define('WEBSITE_PATH', '/clivo');
+define('WEBSITE_PATH', '/');
 define('SECURITY_WORD', 'zxcvfdsa'); // Used to help encrypt invoice hash
 define('ADMIN_EMAIL', 'winazerty@gmail.com');
 define('CLIVO_VERSION', '2.5.1');
