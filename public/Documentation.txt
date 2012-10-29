@@ -1,0 +1,72 @@
+	       CLIVO 
+	  Web Application
+	      v 2.5.1
+
+ ********************************
+ | I. 	Requirements		|
+ | II. 	Features		|
+ | III. Description		|
+ | IV. 	Installation		|
+ | V. 	Post* Installation	|
+ | VI. 	Copyright Information	|
+ ********************************
+
+I. Requirements
+* A Web Server
+* PHP 5+
+* MySQL 4.0+
+* Personal Domain (www.yourdomain.com)
+
+Optional
+* Authorize.NET Payment Gateway (Required SSL Certificate)
+
+II. Features
+* Client Management
+* Invoice Management
+* Projects Management
+* Client/Administrator Theming
+* Image Tagging/Notes System
+* Transactions Management
+* jQuery AJAX
+* Personal Message System Client/Admin Interaction
+* Intuitive User Interface featuring ModalBox, Tooltips, 
+Accordions, Faders and more
+* Personal Client Login Panel to Monitor Invoices, 
+Payments, Messages and more
+* PayPal Payment Integration
+* Custom “Credits” Payment Integration
+* Authorize.NET Payment Integration
+* Full Control Over Email Notifications and Settings
+* Input Validation and Neat Error/Success Messages and 
+More
+
+III. Description
+CLIVO is designed and developed for freelancers and small 
+businesses to better manage their clients, invoices, 
+projects, transactions, payment methods, and general 
+customer care. With multiple payment gateways, robust 
+private messaging system, beautiful design interface, 
+and full control over settings.
+
+IV. Installation
+Unzip the contents to your web server, preferably a 
+separate folder (www.yourdomain.com/folder) and navigate 
+to www.yourdomain.com/folder/install.php. You will be 
+prompted with instructions and how to install Clivo.
+
+If you are UPDATING from a previous version, please view
+http://themeforest.net/item/clivo/49074.
+
+NOTE: Be sure that you have the required server 
+configurations as mentioned in Section I. Additionally, 
+you must have database credentials to create a database 
+on your host.
+
+V. Post-Installation
+If you ever want to change your Credits name, Paypal or 
+Authorize.NET credentials and/or test modes, simple go 
+to includes/config.inc.php.
+
+VI. Copyright Tommy Marshall, Sire Studios Inc. 2009. 
+All Rights Reserved.
+Icons by Pinvoke.com
